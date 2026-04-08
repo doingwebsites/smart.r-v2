@@ -132,7 +132,7 @@ export function Hero() {
             {/* Dashboard image */}
             <div className="relative aspect-[16/9] w-full overflow-hidden rounded-b-xl">
               <Image
-                src="/system-image.png"
+                src="/dashboard.png"
                 alt="Smart.R Dashboard Preview"
                 fill
                 className="object-cover object-top"

@@ -114,7 +114,7 @@ export function DashboardShowcase() {
             {/* Dashboard Image */}
             <div className="relative aspect-[16/10] w-full overflow-hidden rounded-b-xl">
               <Image
-                src="/ai-system.png"
+                src="/dashboard.png"
                 alt="Smart.R AI Dashboard Preview"
                 fill
                 className="object-cover"

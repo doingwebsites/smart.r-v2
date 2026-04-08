@@ -7,19 +7,19 @@ import { Badge } from "@/components/ui/badge"
 const showcaseImages = [
     {
         id: 1,
-        url: "/system-image.png",
+        url: "/dashboard.png",
         title: "Powerful Dashboard",
         description: "Real-time insights and complete control in one place",
     },
     {
         id: 2,
-        url: "/system-image-2.png",
+        url: "/dashboard.png",
         title: "Hiring board",
         description: "Real-time overview of metrics across everything you do"
     },
     {
         id: 3,
-        url: "/system-image-3.png",
+        url: "/dashboard.png",
         title: "Customization",
         description: "Customize the system your own way.",
     },
